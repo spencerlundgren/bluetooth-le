@@ -1,4 +1,5 @@
 import type { PluginListenerHandle } from '@capacitor/core';
+
 import { Capacitor } from '@capacitor/core';
 
 import type { BleClientInterface } from './bleClient';
